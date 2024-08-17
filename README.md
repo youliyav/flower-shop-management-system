@@ -1,1 +1,1 @@
-# lower-shop-management-system
+# flower-shop-management-system
